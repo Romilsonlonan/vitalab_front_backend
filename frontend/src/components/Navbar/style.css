@@ -1,0 +1,46 @@
+nav {
+    background: linear-gradient(180deg, #102347 0%, #181818 100%);
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Ajuste o espaçamento conforme necessário */
+    width: 100%;
+}
+
+
+.vitalab-logo-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 240px;
+}
+
+.vitalab-logo-nav img {
+    margin-top: -10px;
+    width: 240px;
+}
+
+.social-icons {
+    display: flex;
+    margin-left: 999%;
+    margin-top: -40%;
+  }
+  
+  .social-icons .icon {
+    margin-top: auto;
+    width: 40px; /* ou o tamanho desejado para os ícones de rede social */
+    margin-left: 10px; /* ou o espaçamento desejado entre os ícones */
+  }
+
+.vitalab-logo-container h1 {
+    margin-top: -10px;
+    font-size: 24px;
+}
+
+.vitalab-logo-container p {
+    font-size: 14px;
+    font-weight: 300px;
+}
+
+
+
